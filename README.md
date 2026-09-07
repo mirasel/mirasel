@@ -23,19 +23,21 @@
 
 ---
 
-### 👋 Hey
+## 🙋 About Me
 
-Backend engineer, 5 years. **Golang, Node.js, TypeScript.** I build e-commerce platforms, marketplace integrations, and payment flows that carry real transaction volume.
+I'm a backend engineer with **5 years** building systems that move real money and real inventory — e-commerce platforms, marketplace integrations, and payment flows.
 
-🏢 **Currently:** Software Engineer III at **[Pathao](https://pathao.com)** — Bangladesh's largest super app.
+Right now I'm **Software Engineer III at [Pathao](https://pathao.com)**, Bangladesh's largest super app, where I own the multi-channel commerce layer that connects merchants to external marketplaces.
 
-> 📦 Most of my work lives in private and self-hosted repositories, so here's what it actually is.
+What I actually enjoy: third-party API integration under real constraints — OAuth, HMAC signing, webhook idempotency, cost-based rate limiting, and the reconciliation you need when the network refuses to cooperate. Plus the unglamorous part that makes it work: PostgreSQL schema design, caching, and shipping to Kubernetes.
+
+> 📦 Most of my work lives in private and self-hosted repositories, so the sections below describe what I built rather than link to it.
 
 ---
 
 ## 🏗️ What I work on
 
-### 🛒 Pathao Commerce
+### 🛒 [Pathao Commerce](https://commerce.pathao.com)
 
 <img src="https://img.shields.io/badge/30,000+-active%20merchants-2F81F7?style=flat-square" /> <img src="https://img.shields.io/badge/4,000+-online%20stores-1F6FEB?style=flat-square" /> <img src="https://img.shields.io/badge/4-marketplace%20channels-8250DF?style=flat-square" />
 
@@ -52,7 +54,7 @@ I've shipped four production integrations on it:
 
 Also designed the multi-channel database schema — sales channels, channel listings, webhook audit trail, warehouse-channel bindings, and channel-scoped category mappings.
 
-### 🏪 Pathao Shop
+### 🏪 [Pathao Shop](https://shop.pathao.com)
 
 <img src="https://img.shields.io/badge/13+-microservices-2F81F7?style=flat-square" /> <img src="https://img.shields.io/badge/500,000+-daily%20users-1F6FEB?style=flat-square" /> <img src="https://img.shields.io/badge/~1s%20→%20~80ms-API%20latency-2DA44E?style=flat-square" />
 

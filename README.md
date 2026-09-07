@@ -37,7 +37,7 @@ What I actually enjoy: third-party API integration under real constraints — OA
 
 ## 🏗️ What I work on
 
-<h3><a href="https://commerce.pathao.com" target="_blank">🛒 Pathao Commerce</a></h3>
+### 🛒 [Pathao Commerce](https://commerce.pathao.com)
 
 <img src="https://img.shields.io/badge/30,000+-active%20merchants-2F81F7?style=flat-square" /> <img src="https://img.shields.io/badge/4,000+-online%20stores-1F6FEB?style=flat-square" /> <img src="https://img.shields.io/badge/4-marketplace%20channels-8250DF?style=flat-square" />
 
@@ -54,7 +54,7 @@ I've shipped four production integrations on it:
 
 Also designed the multi-channel database schema — sales channels, channel listings, webhook audit trail, warehouse-channel bindings, and channel-scoped category mappings.
 
-<h3><a href="https://shop.pathao.com" target="_blank">🏪 Pathao Shop</a></h3>
+### 🏪 [Pathao Shop](https://shop.pathao.com)
 
 <img src="https://img.shields.io/badge/13+-microservices-2F81F7?style=flat-square" /> <img src="https://img.shields.io/badge/500,000+-daily%20users-1F6FEB?style=flat-square" /> <img src="https://img.shields.io/badge/~1s%20→%20~80ms-API%20latency-2DA44E?style=flat-square" />
 

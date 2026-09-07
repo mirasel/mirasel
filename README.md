@@ -1,13 +1,22 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:2F81F7&height=180&section=header&text=Mominul%20Islam%20Rasal&fontSize=44&fontColor=ffffff&fontAlignY=34&desc=Backend%20Engineer%20·%20Go%20·%20Node.js%20·%20TypeScript&descSize=16&descAlignY=54" alt="banner" />
+# Mominul Islam Rasal
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=1200&color=2F81F7&center=true&vCenter=true&width=700&lines=I+build+backends+that+carry+real+transaction+volume;E-commerce+platforms+%C2%B7+Marketplace+integrations+%C2%B7+Payments;4+marketplace+channels+%C2%B7+30%2C000%2B+merchants;13%2B+microservices+%C2%B7+500%2C000%2B+daily+users)](https://github.com/mirasel)
+### Backend Engineer · Go · Node.js · TypeScript
+
+*I build backends that carry real transaction volume*
 
 <p>
 <a href="https://linkedin.com/in/mominul-islam-rasel"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:mominulislamrasel@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <img src="https://img.shields.io/badge/Dhaka,%20Bangladesh-006A4E?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/4-marketplace%20channels-8250DF?style=flat-square" />
+<img src="https://img.shields.io/badge/30,000+-merchants-2F81F7?style=flat-square" />
+<img src="https://img.shields.io/badge/13+-microservices-1F6FEB?style=flat-square" />
+<img src="https://img.shields.io/badge/500,000+-daily%20users-2DA44E?style=flat-square" />
 </p>
 
 </div>
@@ -90,25 +99,11 @@ The e-commerce vertical of the super app. I built the backend **from an empty re
 
 ---
 
-## 💭 Things I'm opinionated about
-
-> 🔌 Adapter boundaries earn their keep on integration **#3**, not #2
-
-> ⏱️ Webhook handlers should ack in **200ms** and do the work somewhere else
-
-> 🔁 A reconciliation cron is not admitting defeat — it's admitting the network exists
-
-> 🚦 Rate limiters are a **cost model**, not an error condition. Read the budget, back off before you're throttled
-
----
-
 <div align="center">
 
 ### 📫 Say hi
 
 <a href="https://linkedin.com/in/mominul-islam-rasel"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:mominulislamrasel@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F81F7,50:1F6FEB,100:0D1117&height=110&section=footer" alt="footer" />
 
 </div>

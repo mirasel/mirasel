@@ -69,9 +69,21 @@ The e-commerce vertical of the super app. I built the backend **from an empty re
 - 🎟️ **Promo engine** — spanning the Node.js monorepo and a standalone Go microservice: budget enforcement, per-user usage limits, checkout integration, scheduled campaigns
 - 🚢 **CI/CD** — GitLab CI deploying 12 Dockerized services to GKE with Turborepo selective builds, 40% faster deploys, independent zero-downtime releases
 
-### 🩺 Before that
+### Before that
 
-**Augmedix** — real-time audio and transcription infrastructure for a US healthcare AI product. Socket.IO + Deepgram ASR streaming, MPEG-DASH on GCP, HIPAA-compliant PHI handling. The platform saved clinicians **1+ hour of daily EHR documentation**, with 94% reporting better focus on patients.
+**🩺 Augmedix (a.k.a Commure)** — Software Engineer (Backend), Feb 2024 - Jan 2025
+
+US healthcare AI company. I worked on the real-time audio and transcription system behind Augmedix Go, an AI scribe that listens to clinician audio and writes specialty-specific medical notes. We handled protected health information (PHI) under HIPAA-compliant security practices.
+
+The product saved clinicians **1+ hour of daily EHR documentation**, and 94% said it helped them focus better on patients.
+
+What I worked on:
+
+- **Faster live transcription:** Improved the service that streams audio to Deepgram and returns text during a visit, built with Socket.IO. Compressing payloads with Protocol Buffers and processing audio chunks in parallel cut end-to-end delay by 10%.
+- **Reliable audio playback:** Built a system on GCP that converts MP3 recordings to MPEG-DASH streaming. Custom manifests with 3-second segments and parallel Cloud Storage uploads reached 98% playback success and cut buffering by 10%.
+- **Recording in the browser:** Refactored a JavaScript SDK to capture microphone and WebRTC audio in 3-second chunks, using the AudioContext and AudioWorkletProcessor Web APIs. This expanded web support for the Augmedix Go app and grew web-based use by 3%.
+
+**Stack:** Socket.IO, Deepgram ASR, Protocol Buffers, MPEG-DASH, GCP Cloud Storage, WebRTC, Web Audio API, JavaScript
 
 **BJIT** — DHL, Stripe, and custom Shopify app integrations for UK and EU e-commerce clients.
 
